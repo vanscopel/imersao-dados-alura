@@ -13,7 +13,7 @@ Colab Notebook
 
 Conteúdo do projeto:
 `notebook.ipynb` – Notebook com análise exploratória, visualizações e comentários  
-`dados/` – Pasta com os datasets utilizados (se houver)  
+`dados/` – Pasta com os datasets utilizados 
 `README.md` – Documentação do projeto
 
 Como rodar o projeto:
